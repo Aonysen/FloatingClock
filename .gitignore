@@ -1,0 +1,12 @@
+dist/
+tools/*.exe
+tools/CaptureSettingsScreenshot.cs
+FloatingClock-Windows11-x64-*.zip
+*.pdb
+*.user
+*.suo
+.vs/
+bin/
+obj/
+Thumbs.db
+Desktop.ini
